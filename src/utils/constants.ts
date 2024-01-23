@@ -1,6 +1,6 @@
 import { BigInt, BigDecimal, Address } from '@graphprotocol/graph-ts';
 
-export const FarmingCenterAddress = Address.fromString("0x481FcFa00Ee6b2384FF0B3c3b5b29aD911c1AAA7")
+export const FarmingCenterAddress = Address.fromString("0x82831E9565cb574375596eFc090da465283E22A4")
 
 export let ZERO_BI = BigInt.fromI32(0)
 export let ONE_BI = BigInt.fromI32(1)
